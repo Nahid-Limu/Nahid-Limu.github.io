@@ -1,0 +1,86 @@
+<section class="news-area" id="blog">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 text-center">
+                <div class="section-title">
+                    <!-- section title -->
+                    <span class="subtitle">My Blogs</span>
+                    <h2 class="title">Latest News</h2>
+                    <!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo orci odio, ut tor felisdapibus sed. Phasellus
+                        vitae ullamcorper purus. </p> -->
+                </div>
+                <!-- //. sectoin title -->
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-8">
+                <article class="single-blog-post-item wow fadeInLeft"><!-- single blog post item -->
+                    <div class="thumb">
+                        <img src="assets/img/blog/01.jpg" alt="blog images">
+                    </div>
+                    <div class="content">
+                        <a href="#"><h4 class="title">Behind Great Product Design</h4></a>
+                        <ul class="meta-data">
+                            <li>Posted By: <a href="#">Admin</a></li>
+                            <li><a href="#"><i class="icofont">speech_comments</i> 1.3k</a></li>
+                            <li><a href="#"><i class="icofont">like</i>1.5k</a></li>
+                        </ul>
+                        <div class="description">
+                            <p>Sed vehicula ac est quis tempus. Aliquam nec elit a velit dictum gravida. Pellentesque orci odio, imperdiet ac elementum
+                            in, pharetra quis nibh.Aliquam nec elit a velit dictum gravida. Pellentesque orci odio.</p>
+                        </div>
+                        <a href="#" class="readmore">read more <i class="icofont">long_arrow_right</i></a>
+                    </div>
+                </article><!-- //.single blog post item -->
+                <article class="single-blog-post-item wow fadeInUp"><!-- single blog post item -->
+                    <div class="thumb">
+                        <img src="assets/img/blog/01.jpg" alt="blog images">
+                    </div>
+                    <div class="content">
+                        <a href="#"><h4 class="title">On ye great do child sorry </h4></a>
+                        <ul class="meta-data">
+                            <li>Posted By: <a href="#">Admin</a></li>
+                            <li><a href="#"><i class="icofont">speech_comments</i> 1.3k</a></li>
+                            <li><a href="#"><i class="icofont">like</i>1.5k</a></li>
+                        </ul>
+                        <div class="description">
+                            <p>Sed vehicula ac est quis tempus. Aliquam nec elit a velit dictum gravida. Pellentesque orci odio, imperdiet ac elementum
+                            in, pharetra quis nibh.Aliquam nec elit a velit dictum gravida. Pellentesque orci odio.</p>
+                        </div>
+                        <a href="#" class="readmore">read more <i class="icofont">long_arrow_right</i></a>
+                    </div>
+                </article><!-- //.single blog post item -->
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <article class="single-blog-gird-item wow fadeInRight"><!-- single blog grid item -->
+                    <div class="thumb">
+                        <img src="assets/img/blog/grid-01.jpg" alt="blog grid item">
+                    </div>
+                    <div class="content">
+                        <a href="#"><h4 class="title">Seen you eyes son</h4></a>
+                        <ul class="meta-data">
+                            <li>Posted By: 
+                                <a href="#"> Admin</a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <i class="icofont">speech_comments</i> 1.3k</a>
+                            </li>
+                            <li>
+                                <a href="#">
+                                    <i class="icofont">like</i>1.5k</a>
+                            </li>
+                        </ul>
+                        <div class="description">
+                            <p>Sed vehicula ac est quis tempus. Aliquam nec elit a velit dictum gravida. Pellentesque orci odio, imperdiet ac elementum
+                                in, pharetra quis nibh.</p>
+                        </div>
+                        <a href="#" class="readmore">read more
+                            <i class="icofont">long_arrow_right</i>
+                        </a>
+                    </div>
+                </article><!-- //.single blog grid item -->
+            </div>
+        </div>
+    </div>
+</section>
